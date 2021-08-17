@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+     <h3>Price Tag</h3>
       <div className="main-data">
         {
           data.map(obj => {
